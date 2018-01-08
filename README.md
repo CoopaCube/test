@@ -1,9 +1,7 @@
+<<<<<<< HEAD
 # JULIAN QQN DE MATURE EN TOUT CAS :)
 
+=======
+>>>>>>> jub
 ## Repository de Julian Beruwalage
-
-
----
-Oue j'aime bien les readme
----
-tu veux une bonne nouvelle?
+# Test
