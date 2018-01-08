@@ -1,9 +1,14 @@
-# JULIAN QQN DE MATURE EN TOUT CAS :)
-
+<<<<<<< HEAD
+# AHHHHHH J'AI TOUT CASSER ALED
+# CA TOURNE MAL ! LA 3EME VA VOUS SURPRENDRE
 ## Repository de Julian Beruwalage
 
+=======
+<<<<<<< HEAD
+# JULIAN QQN DE MATURE EN TOUT CAS :)
+>>>>>>> master
 
----
-Oue j'aime bien les readme
----
-tu veux une bonne nouvelle?
+=======
+>>>>>>> jub
+## Repository de Julian Beruwalage
+# Test
