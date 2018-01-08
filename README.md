@@ -1,5 +1,5 @@
-# JULIAN QQN DE MATURE EN TOUT CAS :)
-# ouais je sais !
+# AHHHHHH J'AI TOUT CASSER ALED
+# CA TOURNE MAL ! LA 3EME VA VOUS SURPRENDRE
 ## Repository de Julian Beruwalage
 
 
