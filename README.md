@@ -1,4 +1,5 @@
-# JULIAN QQN DE MATURE EN TOUT CAS :)
+# J'AI TOUT CASSER ALED !
+# PRANK CA TOURNE MAL ! OLALA LA 7EME VA VOUS SURPRENDRE
 # ouais je sais !
 ## Repository de Julian Beruwalage
 
